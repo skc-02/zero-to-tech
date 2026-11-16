@@ -47,6 +47,7 @@
   color: var(--text-muted);
 }
 
+<<<<<<< HEAD
 .lab-count {
   color: var(--text-muted);
   font-size: 13px;
@@ -54,6 +55,8 @@
   letter-spacing: -0.12px;
 }
 
+=======
+>>>>>>> 49bb2ca7d46d3676cbc7c0dc9a11c8a70d109e3b
 .primary-button {
   justify-self: start;
   min-width: 128px;
